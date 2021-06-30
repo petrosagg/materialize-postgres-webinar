@@ -79,7 +79,7 @@ $ node index.mjs
 #### Play with it!
 
 At this point you're ready to use Planka and see realtime updates being synced
-in real time! You should find the Planka dashboard at
+to your browser! You should find the Planka dashboard at
 [http://localhost:3000](http://localhost:3000) and the realtime dashboard at
 [http://localhost:4000](http://localhost:4000).
 
