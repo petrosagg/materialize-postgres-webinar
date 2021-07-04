@@ -98,4 +98,3 @@ see the list of cards updating live in your realtime dashboard.
 This is demo code so many things could go wrong. If you hit a particular issue
 feel free to open an issue or ping me (Petros Angelatos) in our [Materialize
 community chat](https://materialize.com/s/chat)
-At this point ou can
