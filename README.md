@@ -41,7 +41,7 @@ Connect to the materialize database to create the Postgres source and generate
 the views. You can do so using `psql`:
 
 ```bash
-psql -h localhost -p 5433 planka postgres
+psql -h localhost -p 6875 materialize materialize
 ```
 
 In your psql terminal, run the following SQL statements:
